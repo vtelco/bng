@@ -14,3 +14,5 @@ Aqui estão algumas das principais funções e responsabilidades do BNG:
 5. **Controle de Tráfego**: Ele também pode ajudar a otimizar o tráfego e gerenciar a utilização da largura de banda para melhorar o desempenho geral da rede.
 
 Em resumo, o BNG é crucial para assegurar que os usuários tenham uma conexão estável e segura com a Internet, além de desempenhar um papel importante na administração e operação eficiente das redes de banda larga.
+
+Link: https://datatracker.ietf.org/doc/rfc2516/
